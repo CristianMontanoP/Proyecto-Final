@@ -1,0 +1,50 @@
+.venv/
+env/
+venv/
+
+# Datos y modelos
+data/hagrid_annotations/
+data/hagrid_dataset/
+*.pkl
+*.pt
+*.pth
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs y temporales
+*.log
+*.bak
+*.tmp
+
+# Configuración de editores
+.vscode/
+.idea/
+*.swp
+
+# Notebooks
+*.ipynb_checkpoints
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+*.bak
+*.tmp
+.vscode/
+.idea/
+*.swp
+env/
+venv/
+*.ipynb_checkpoints
+.DS_Store
+Thumbs.db
